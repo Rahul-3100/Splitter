@@ -1,5 +1,7 @@
 {
-  "name": "splitwise-clone",
+  "name": "splitter",
+  "description": "Personalized expense splitting app",
+  "author": "Rahul",
   "version": "0.1.0",
   "private": true,
   "scripts": {

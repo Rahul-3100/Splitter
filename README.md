@@ -1,25 +1,16 @@
-# Full Stack AI Splitwise Clone with Next JS, Convex, Tailwind, Inngest, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/Ce7O3p7-YDI
+# Splitter
 
-![splitr](https://github.com/user-attachments/assets/11e138c4-efcf-4a85-8586-f2993da118d8)
+Splitter is a personalized group expense tracking app designed with real-time updates and clean UI.
 
-### Make sure to create a `.env` file with following variables -
+## Features
+- Group and personal expenses
+- Real-time balance tracking
+- Settlement and history views
 
-```
-# Deployment used by `npx convex dev`
-CONVEX_DEPLOYMENT=
+## Built With
+- Next.js
+- Convex
+- Tailwind CSS
 
-NEXT_PUBLIC_CONVEX_URL=
-
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-
-CLERK_JWT_ISSUER_DOMAIN=
-
-RESEND_API_KEY=
-
-GEMINI_API_KEY=
-```
+## Author
+Rahul
